@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea890832-1e75-4d25-b37a-92b03a2886b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4a7VA6Yg4hI8pQrznUlpMQ2ZO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MovieStoreTest.findsMoviesWhenReleaseYearIsBetweenTwoValues">
+    <configuration name="MovieStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeJavaTdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovieStoreTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieStoreTest.findsMoviesWhenDirectorExactlyMatches" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeJavaTdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovieStoreTest" />
+      <option name="METHOD_NAME" value="findsMoviesWhenDirectorExactlyMatches" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieStoreTest.findsMoviesWhenReleaseYearIsBetweenTwoValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeJavaTdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovieStoreTest" />
+      <option name="METHOD_NAME" value="findsMoviesWhenReleaseYearIsBetweenTwoValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovieStoreTest.findsMoviesWhenReleaseYearIsBetweenTwoValues" />
+        <item itemvalue="JUnit.MovieStoreTest.findsMoviesWhenDirectorExactlyMatches" />
+        <item itemvalue="JUnit.MovieStoreTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea890832-1e75-4d25-b37a-92b03a2886b5" name="Default Changelist" comment="" />
+      <created>1584100652936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584100652936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1458" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584110064216">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1458" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584110064216" />
+    <state x="2127" y="342" key="FileChooserDialogImpl" timestamp="1584104971017">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2127" y="342" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584104971017" />
+    <state width="1877" height="131" key="GridCell.Tab.0.bottom" timestamp="1584116662998">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584116662998" />
+    <state width="1877" height="131" key="GridCell.Tab.0.center" timestamp="1584116662998">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584116662998" />
+    <state width="1877" height="131" key="GridCell.Tab.0.left" timestamp="1584116662998">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584116662998" />
+    <state width="1877" height="131" key="GridCell.Tab.0.right" timestamp="1584116662998">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584116662998" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1584109532070">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584109532070" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1584109532070">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584109532070" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1584109532070">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584109532070" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1584109532070">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584109532070" />
+    <state x="1827" y="162" key="SettingsEditor" timestamp="1584105017829">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1827" y="162" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584105017829" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584103934388">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584103934388" />
+    <state x="2068" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1584115825407">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2068" y="148" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584115825407" />
+    <state x="1982" y="240" key="run.anything.popup" timestamp="1584110087735">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="240" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584110087735" />
+  </component>
+</project>
